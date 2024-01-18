@@ -22,7 +22,7 @@ To run this project on your computer, follow these steps:
 
 ## Demo
 
-Explore the live demo of the project: [Live Demo](https://thriving-torrone-796253.netlify.app/)
+Explore the live demo of the project: [Gerich Restaurant](https://gerich-restaurant-1.netlify.app/)
 
 
 ---
