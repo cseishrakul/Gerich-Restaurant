@@ -22,8 +22,7 @@ To run this project on your computer, follow these steps:
 
 ## Demo
 
-Explore the live demo of the project: [Gerich Restaurant](https://gerich-restaurant-1.netlify.app/){:target="_blank"}
-Explore the live demo of the project: <a href="https://gerich-restaurant-1.netlify.app/" target="_blank">Gerich Restaurant</a>
+Explore the live demo of the project: [Gerich Restaurant](https://gerich-restaurant-1.netlify.app/)
 
 
 
